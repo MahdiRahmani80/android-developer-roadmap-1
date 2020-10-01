@@ -2,7 +2,7 @@
 [![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 
-> A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
+> :pushpin: A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
 
 <p align="center">
 <img alt="Android Developer Roadmap" src="https://raw.githubusercontent.com/MindorksOpenSource/android-developer-roadmap/master/images/android_developer_roadmap.png">
